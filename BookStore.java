@@ -1,7 +1,5 @@
 /* Name: Christopher Kanazeh
- * Course: CNT 4714 - Fall 2015
- * Assignment Title: Program 1 - Event-Driven Programming
- * Date: Sunday September 13, 2015
+ * Event-Driven Programming
  */
 
 //
