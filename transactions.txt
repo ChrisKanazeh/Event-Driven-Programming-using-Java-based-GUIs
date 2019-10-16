@@ -1,0 +1,35 @@
+150906182343, 11111,  "Top Secret Twenty One - Janet Evanovich", 8.99, 3, 0.0, 26.97, 2015/09/06 18:23:43 PM EDT
+150906182343, 44444,  "Revival - Stephen King", 12.95, 3, 0.0, 38.85, 2015/09/06 18:23:43 PM EDT
+150906182343, 66666,  "Refusal - Felix Francis", 7.99, 4, 0.0, 31.96, 2015/09/06 18:23:43 PM EDT
+150906183814, 55555,  "Everyday Italian - Giada de Laurentiis", 18.99, 3, 0.0, 56.97, 2015/09/06 18:38:14 PM EDT
+150906183814, 11111,  "Top Secret Twenty One - Janet Evanovich", 8.99, 31, 20.0, 222.952, 2015/09/06 18:38:14 PM EDT
+150906183814, 33333,  "Gray Mountain - John Grisham", 14.95, 2, 0.0, 29.9, 2015/09/06 18:38:14 PM EDT
+150906183814, 22222	  "W Is For Wasted - Sue Grafton", 9.95, 11, 15.0, 93.0325, 2015/09/06 18:38:14 PM EDT
+150906184123, 88888,  "Terminal City - Linda Fairstein", 10.95, 1, 0.0, 10.95, 2015/09/06 18:41:23 PM EDT
+150906184123, 11111,  "Top Secret Twenty One - Janet Evanovich", 8.99, 2, 0.0, 17.98, 2015/09/06 18:41:23 PM EDT
+150906184123, 55555,  "Everyday Italian - Giada de Laurentiis", 18.99, 1, 0.0, 18.99, 2015/09/06 18:41:23 PM EDT
+150906184123, 33333,  "Gray Mountain - John Grisham", 14.95, 1, 0.0, 14.95, 2015/09/06 18:41:23 PM EDT
+150906184209, 11111,  "Top Secret Twenty One - Janet Evanovich", 8.99, 1, 0.0, 8.99, 2015/09/06 18:42:09 PM EDT
+150906184953, 22222,  "W Is For Wasted - Sue Grafton", 9.95, 11, 15.0, 93.0325, 2015/09/06 18:49:53 PM EDT
+150908004319, 88888,  "Terminal City - Linda Fairstein", 10.95, 1, 0.0, 10.95, 2015/09/08 00:43:19 AM EDT
+150908004319, 77777,  "Dust - Patricia Cornwell", 12.99, 1, 0.0, 12.99, 2015/09/08 00:43:19 AM EDT
+150908004319, 11111,  "Top Secret Twenty One - Janet Evanovich", 8.99, 1, 0.0, 8.99, 2015/09/08 00:43:19 AM EDT
+150908004319, 44444,  "Revival - Stephen King", 12.95, 1, 0.0, 12.95, 2015/09/08 00:43:19 AM EDT
+150908010120, 88888,  "Terminal City - Linda Fairstein", 10.95, 1, 0.0, 10.95, 2015/09/08 01:01:20 AM EDT
+150908010120, 11111,  "Top Secret Twenty One - Janet Evanovich", 8.99, 1, 0.0, 8.99, 2015/09/08 01:01:20 AM EDT
+150908010120, 77777,  "Dust - Patricia Cornwell", 12.99, 1, 0.0, 12.99, 2015/09/08 01:01:20 AM EDT
+150908010120, 44444,  "Revival - Stephen King", 12.95, 1, 0.0, 12.95, 2015/09/08 01:01:20 AM EDT
+150908010614, 11111,  "Top Secret Twenty One - Janet Evanovich", 8.99, 3, 0.0, 26.97, 2015/09/08 01:06:14 AM EDT
+150908030917, 44444,  "Revival - Stephen King", 12.95, 1, 0.0, 12.95, 2015/09/08 03:09:17 AM EDT
+150908030917, 55555,  "Everyday Italian - Giada de Laurentiis", 18.99, 1, 0.0, 18.99, 2015/09/08 03:09:17 AM EDT
+150908030917, 33333,  "Gray Mountain - John Grisham", 14.95, 1, 0.0, 14.95, 2015/09/08 03:09:17 AM EDT
+150908030917, 66666,  "Refusal - Felix Francis", 7.99, 1, 0.0, 7.99, 2015/09/08 03:09:17 AM EDT
+150908031142, 44444,  "Revival - Stephen King", 12.95, 1, 0.0, 12.95, 2015/09/08 03:11:42 AM EDT
+150908031302, 88888,  "Terminal City - Linda Fairstein", 10.95, 1, 0.0, 10.95, 2015/09/08 03:13:02 AM EDT
+150908031302, 11111,  "Top Secret Twenty One - Janet Evanovich", 8.99, 2, 0.0, 17.98, 2015/09/08 03:13:02 AM EDT
+150908031302, 55555,  "Everyday Italian - Giada de Laurentiis", 18.99, 1, 0.0, 18.99, 2015/09/08 03:13:02 AM EDT
+150908031302, 33333,  "Gray Mountain - John Grisham", 14.95, 1, 0.0, 14.95, 2015/09/08 03:13:02 AM EDT
+150908234117, 88888,  "Terminal City - Linda Fairstein", 10.95, 1, 0.0, 10.95, 2015/09/08 23:41:17 PM EDT
+150908234117, 44444,  "Revival - Stephen King", 12.95, 1, 0.0, 12.95, 2015/09/08 23:41:17 PM EDT
+150908234117, 33333,  "Gray Mountain - John Grisham", 14.95, 1, 0.0, 14.95, 2015/09/08 23:41:17 PM EDT
+150908234117, 77777,  "Dust - Patricia Cornwell", 12.99, 1, 0.0, 12.99, 2015/09/08 23:41:17 PM EDT
